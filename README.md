@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wmcraver
 - 👀 I’m interested in Ruby, Rails, R, SQL, and tons of other stuff 
-- 🌱 I’m currently learning Rails 7 and how to use Hotwire
+- 🌱 I’m currently getting up to speed with Rails 7.
 
 <!---
 wmcraver/wmcraver is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
